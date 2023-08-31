@@ -1,19 +1,24 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "From Novice to Enthusiast"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2023-08-30
 published: true
 labels:
   - Software Engineering
+  - Javascript
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img width="100px" class="rounded float-start pe-4" src="../img/JavaScript-logo.png">
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+I’ve been learning and writing Javascript for the past two weeks. That may not be long but when you have prior experience with Java and utilize online resources, you’d be surprised how quickly one can grow comfortable with a programming language. I just wanted to share a few things I found interesting when commencing my Javascript journey.
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+First I want to give a brief history of my software experience to paint a better picture. I am currently a senior and nearly completed with my BS in Computer Science. Over the course of my schooling I have worked with Java, C, C++, C#, Python, with my newest addition being Javascript.
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+I have to say my first impressions of Javascript are very favorable. It feels like I can do everything I wanted to do in Java, in Javascript with great ease. Many things that would have taken several lines of code in Java now can sometimes take a single line in Javascript. When we learned about objects and Object Oriented programming back in freshman/sophmore year we spent a lot of time just learning to create objects in Java. Now with Javascript, we learned to create versatile objects in just a few minutes. On top of that, it can be done in a single line!
+
+As of 2022, Javascript serves as the main language for 98% of all websites. So it was not very surprising when I searched  “Is javascript good?” and found many lists claiming the top 10 reasons Javascript was the best language. Instead of spewing all my research out, I’ll instead share a few of the reasons that were most interesting to me personally. I found that Javascript is a good language for newcomers to software engineering. Many find it easy to learn, especially those with prior knowledge of Java, C++, or Python. Javascript not only has the ability to create a website, but also the ability to make a visually appealing one. An extension of this fact that interested me a lot was that having the ability to easily create visual effects means JS is a powerful language for video game developers.
+
+The list of why Javascript is awesome goes on but you could just as easily look those lists up yourself. My experience with it so far has been a very positive one. I find the concepts understandable and easy to implement. I am also happy to find that it can be good for game designers/developers because that has been a side interest of mine for a while. I am excited to dive deeper into Javascript and see what I can really accomplish.
