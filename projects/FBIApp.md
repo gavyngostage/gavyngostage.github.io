@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/FBILogo.jpg
+image: img/FBI2.jpg
 title: "FBI Location App"
 date: 2021
 published: true
