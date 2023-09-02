@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "A Senior's Odyssey"
 # All dates must be YYYY-MM-DD format!
-date: 2023-08-30
+date: 2023-09-01
 published: true
 labels:
   - Software Engineering
