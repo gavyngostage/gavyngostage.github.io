@@ -43,18 +43,7 @@
   ],
   "work": [
     {
-      "company": "Northrop Grumman",
-      "position": "System Test Engineer",
-      "website": "",
-      "startDate": "2022-05-22",
-      "endDate": "2023-05-22",
-      "summary": "An intern tasked with created a data visualization application for use with databases.",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
+      
       "company": "Northrop Grumman",
       "position": "Software Engineer",
       "website": "http://www.hawaii.edu/its/",
@@ -64,6 +53,18 @@
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
         "Answer phone and email responses to the ITS Help Desk"
+      ]
+    },
+    {
+      "company": "Northrop Grumman",
+        "position": "System Test Engineer",
+        "website": "",
+        "startDate": "2022-05-22",
+        "endDate": "2022-05-22",
+        "summary": "An intern tasked with created a data visualization application for use with databases.",
+        "highlights": [
+          "Maintain, update, and oversee official college newspaper website",
+          "Drive, design and build student-community projects for UH Manoa"
       ]
     }
   ],
