@@ -16,14 +16,16 @@ In the vast world of online technical forums, one platform reigns supreme for de
 In this essay, we'll dive into the dynamic world of Stack Overflow questions. We'll explore two distinct categories: the shining examples that light the path to understanding and the stumbling blocks that sometimes lead us astray. By examining these examples, we hope to uncover the essential ingredients of a successful question and learn from those that miss the mark.
 
 ## Good Question
+<br>
 <img width="550px" height="auto" class="rounded float-start pe-4" src="../img/GoodQuestion.png">
-
+<br>
 A good question is marked by a few things. Good questions are always specific, the question should ask a single well-defined questions per post. Good questions are formatted well, in a way that any reader can easily understand what the asker is trying to convey. If required (in most coding questions it is required), add contextual information. Whether it be a snippet of code or an error message you keep receiving, visually showing what exactly you're working with can help ensure prompt and accurate answers. This question received ~16,000 soultions!
 
 
 ## Bad Question
+<br>
 <img width="550px" height="auto" class="rounded float-start pe-4" src="../img/BadQuestion.png"> 
-
+<br>
 Here is a good question that shows what you should NOT do when asking questions on stack overflow. The first issue is, this question demonstrates a clear lack of prior research. The user is asking a question that can easily be resolved with Git's existing functionalities. The question is also poorly defined. With the information provided, it is difficult to ascertain the exact nature of the issue, as well as what the user is trying to achieve. This is also a question that has been touched upon many times in the Stack Overflow community. He probably could have found a solution faster with a quick google search.
 
 
