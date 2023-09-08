@@ -11,7 +11,7 @@ labels:
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="img/image.png">
+<img width="100px" class="rounded float-start pe-4" src="../img/JavaScript-logo.png">
 
 I’ve been learning and writing Javascript for the past two weeks. That may not be long but when you have prior experience with Java and utilize online resources, you’d be surprised how quickly one can grow comfortable with a programming language. I just wanted to share a few things I found interesting when commencing my Javascript journey.
 
