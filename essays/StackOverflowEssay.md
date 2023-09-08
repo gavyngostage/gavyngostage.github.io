@@ -17,4 +17,5 @@ In the vast world of online technical forums, one platform reigns supreme for de
 
 In this essay, we'll dive into the dynamic world of Stack Overflow questions. We'll explore two distinct categories: the shining examples that light the path to understanding and the stumbling blocks that sometimes lead us astray. By examining these examples, we hope to uncover the essential ingredients of a successful question and learn from those that miss the mark.
 
-<img width="300px" class="rounded float-start pe-4" src="../img/image.png">
+<img width="300px" class="rounded float-start pe-4" src="..img/GoodQuestion.png">
+<img width="300px" class="rounded float-start pe-4" src="..img/BadQuestion.png">
