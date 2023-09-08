@@ -11,11 +11,13 @@ labels:
 ---
 
 ## 
+
 In the vast world of online technical forums, one platform reigns supreme for developers and programmers: Stack Overflow. It's a digital haven where we gather to unravel coding puzzles and seek help when we hit a roadblock. But the language we use to pose our questions makes all the difference. As Eric Raymond noted in his essay "Before You Ask," crafting a well-thought-out question can open doors to a wealth of knowledge and expertise, while a hasty or unclear one can leave both askers and answerers scratching their heads.
 
 In this essay, we'll dive into the dynamic world of Stack Overflow questions. We'll explore two distinct categories: the shining examples that light the path to understanding and the stumbling blocks that sometimes lead us astray. By examining these examples, we hope to uncover the essential ingredients of a successful question and learn from those that miss the mark.
 
 ## Good Question
+
 <br>
 <img width="550px" height="auto" class="rounded float-start pe-4" src="../img/GoodQuestion.png">
 <br>
@@ -23,6 +25,7 @@ A good question is marked by a few things. Good questions are always specific, t
 
 
 ## Bad Question
+
 <br>
 <img width="550px" height="auto" class="rounded float-start pe-4" src="../img/BadQuestion.png"> 
 <br>
@@ -30,6 +33,7 @@ Here is a good question that shows what you should NOT do when asking questions 
 
 
 
-
+<br>
 ## Final Thoughts
+
 In the ever-expanding universe of online technical forums it is critical for us to refine our question asking skills. This is a skill that is not only crucial for your own success, but will also help contribute to the community where we can all becomer more knowledgeable together. The language we wield when formulating questions holds the power to shape our experience. The most important thing to remember is, good questions bring good answer. As computer science students, we must remember that the art of questioning is as crucial as the pursuit of answers in our ongoing pursuit of technical mastery.
