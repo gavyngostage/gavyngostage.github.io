@@ -11,7 +11,7 @@ labels:
   - Code Quality
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/esLint.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/esLint.png">
 
 ## Intro
 In the realm of software development, the term "coding standards" often conjures images of nitpicky details such as indentation preferences and brace placements. However, I believe that coding standards represent a cornerstone of software engineering.  In this essay, we will explore the profound impact of coding standards on software development and share insights on their significance.
