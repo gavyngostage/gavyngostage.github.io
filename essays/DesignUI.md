@@ -12,6 +12,7 @@ labels:
 ---
 
 <img width="500px" class="rounded float-start pe-4" src="../img/bootstrap.png">
+<br><br><br><br>
 
 ## Introduction
 
@@ -62,6 +63,7 @@ Now, let's dive into the HTML code I provided for the "Buzz" webpage. Bootstrap 
 ## Code Screenshot
 
 <img width="1000px" height="auto" class="rounded float-start pe-4" src="../img/bootstrapCodeSnip.png">
+<br><br><br><br>
 
 ## Conclusion
 
