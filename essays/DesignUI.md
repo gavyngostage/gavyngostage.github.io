@@ -59,6 +59,10 @@ Now, let's dive into the HTML code I provided for the "Buzz" webpage. Bootstrap 
 
 4. **Styling:** Bootstrap's utility classes are harnessed for styling elements throughout the page, ensuring a consistent and aesthetically pleasing design.
 
+## Code Screenshot
+
+![Buzz Webpage Code](img/bootstrapCodeSnip.png)
+
 ## Conclusion
 
 In conclusion, UI frameworks like Bootstrap, despite their initial learning curve, offer unparalleled benefits that transform the web development landscape. My positive experience with Bootstrap 5 mirrors the broader advantages it provides. Embracing UI frameworks empowers developers to create outstanding web applications while saving time and reducing frustration. In today's dynamic digital world, they are a valuable asset in any developer's toolkit.
