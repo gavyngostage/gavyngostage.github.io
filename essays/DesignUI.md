@@ -61,7 +61,7 @@ Now, let's dive into the HTML code I provided for the "Buzz" webpage. Bootstrap 
 
 ## Code Screenshot
 
-![Buzz Webpage Code](img/bootstrapCodeSnip.png)
+![Buzz Webpage Code](../img/bootstrapCodeSnip.png)
 
 ## Conclusion
 
