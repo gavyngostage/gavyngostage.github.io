@@ -9,7 +9,7 @@ labels:
   - AI
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/bootstrap.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/ChatGPT-Logo-960x360.jpg">
 <br><br><br><br><br><br><br>
 
 # Reflecting on the Role of AI in ICS 314
