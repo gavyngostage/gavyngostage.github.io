@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Food_Now _Logo_1.png
+image: img/Food_Now_Logo_1.png
 title: "Food-Now: Food Search Made Easy"
 date: 2021
 published: true
@@ -12,7 +12,6 @@ labels:
 summary: "A website made for students that allows searching for various food places in and around campus. Website utilizes a login/signup system as well as a database of vendors and their menuitems."
 ---
 
-<img class="img-fluid" src="../img/hotelIMG.jpg">
 
 ## Food-Now: Fueling UH Manoa with Culinary Inspiration
 Remember that feeling of wandering around campus, lost in a sea of options, unsure where to grab a satisfying bite? Food-Now, a web app built by a dedicated team, aims to solve this dilemma for students and faculty at the University of Hawaii at Manoa.
@@ -31,12 +30,16 @@ Food-Now isn't just about mapping hunger. It's a comprehensive platform offering
 - 
 # My Culinary Contribution:
 
+<img class="img-fluid" src="../img/ShowVendorCode.png"> <img class="img-fluid" src="../img/ShowVendors.png">
+
 As a member of the Food-Now team, I played a key role in shaping the user experience. Here's how I contributed:
 
 - **Building the Gateway**: I crafted the sign-in and sign-up pages, welcoming users into a world of culinary exploration.
 - **Campus Color Palette**: I transformed the website's general styling, infusing it with the vibrant school colors, creating a familiar and welcoming atmosphere.
 - **Navigating the Buffet**: I built the user pages for listing all users, vendors, and their menu items, ensuring smooth navigation through the platform's offerings.
 - **Maintaining the Home Plate**: I played a central role in keeping the organization's home page fresh and informative, ensuring it reflects the project's latest developments.
+
+  <img class="img-fluid" src="../img/VendorItemCode.png"> <img class="img-fluid" src="../img/VendorMenu.png">
 
 # From Bytes to Bites: Lessons Learned:
 
