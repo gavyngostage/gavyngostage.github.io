@@ -17,6 +17,8 @@ This final essay marks the culmination of my journey through this software engin
 ## Agile Project Management
 Gone are the days of rigid timelines and waterfall methodologies. Agile has emerged as a powerful tool, replacing predictability with adaptability. Imagine a butterfly flapping its wings in Brazil, causing a storm in Texas. Agile embraces this interconnectedness, iterating quickly and adapting to changing needs. We learned about Issue-Driven Project Management, where tasks arise organically, prioritized based on their immediate impact. This fostered a collaborative environment, where feedback loops became our compass, guiding us towards continuous improvement.
 
+![agile](https://hive.com/wp-content/uploads/2020/10/methodology-agile.png)
+
 This isn't just for web apps. Imagine working on a complex research project. Instead of a rigid plan, we can embrace Agile's iterative approach. We start with well-defined user stories, prioritize them based on their scientific merit, and work in short sprints, constantly refining our approach based on new findings. This dynamic process allows us to navigate the ever-changing landscape of knowledge, ensuring we're always on the right track.
 
 ## Development Environments
