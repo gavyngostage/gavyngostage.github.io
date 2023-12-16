@@ -1,17 +1,59 @@
 ---
 layout: project
 type: project
-image: img/Hotel2.jpg
-title: "A Hotel Management System: A Java Project in ICS 211"
+image: img/Food_Now _Logo_1.png
+title: "Food-Now: Food Search Made Easy"
 date: 2021
 published: true
 labels:
-  - Java
-summary: "A hotel management application"
+  - JavaScript
+  - HTML
+  - FullStack
+summary: "A website made for students that allows searching for various food places in and around campus. Website utilizes a login/signup system as well as a database of vendors and their menuitems."
 ---
 
 <img class="img-fluid" src="../img/hotelIMG.jpg">
 
-In the context of my ICS 211 course, which focused on Java programming, I embarked on a substantial project that entailed the development of a hotel management system. This project was designed to encompass a range of functionalities essential to a hotel's day-to-day operations, including room reservations, real-time room availability checks, categorization of rooms by type (such as doubles, singles, handicap-accessible, by floor, and preferred rooms with scenic views), all with the goal of streamlining tasks for hotel front desk personnel.
+## Food-Now: Fueling UH Manoa with Culinary Inspiration
+Remember that feeling of wandering around campus, lost in a sea of options, unsure where to grab a satisfying bite? Food-Now, a web app built by a dedicated team, aims to solve this dilemma for students and faculty at the University of Hawaii at Manoa.
 
-Despite its apparent simplicity, this project proved to be one of my most extensive undertakings at that stage of my coding journey. Regrettably, the code for this project has been lost to time, but it served as a testament to my aptitude in implementing fundamental Java concepts, such as object-oriented programming and the utilization of functions. Completing this project was a pivotal moment that underscored the immense satisfaction of creating a complex system that functions seamlessly. It epitomized the joy of crafting something from scratch, transforming a conceptual idea into a tangible, functional reality, akin to the difference between baking a cake from a basic recipe and creating one entirely from scratch, replete with personalized nuances and complexities.
+# Unveiling the Culinary Landscape:
+
+Imagine an interactive map, dotted with vibrant icons representing campus food vendors. Click on one, and a full menu unfolds, showcasing culinary delights from around the globe. Food-Now empowers you to explore your options, from the familiar comfort of a campus cafe to the hidden gems tucked away in food trucks.
+
+# Beyond the Map:
+
+Food-Now isn't just about mapping hunger. It's a comprehensive platform offering:
+
+- **Vendor List**: Browse through a detailed directory of campus food options, categorized for easy exploration.
+- **Menu Explorer**: Dive into each vendor's culinary offerings, complete with descriptions and mouthwatering pictures (where available).
+- **Admin Panel**: For authorized users, managing the platform is a breeze. Add or remove vendors, users, and food items, ensuring Food-Now stays up-to-date and delicious.
+- 
+# My Culinary Contribution:
+
+As a member of the Food-Now team, I played a key role in shaping the user experience. Here's how I contributed:
+
+- **Building the Gateway**: I crafted the sign-in and sign-up pages, welcoming users into a world of culinary exploration.
+- **Campus Color Palette**: I transformed the website's general styling, infusing it with the vibrant school colors, creating a familiar and welcoming atmosphere.
+- **Navigating the Buffet**: I built the user pages for listing all users, vendors, and their menu items, ensuring smooth navigation through the platform's offerings.
+- **Maintaining the Home Plate**: I played a central role in keeping the organization's home page fresh and informative, ensuring it reflects the project's latest developments.
+
+# From Bytes to Bites: Lessons Learned:
+
+Food-Now wasn't just a project; it was a learning journey. Here's what I discovered:
+
+- **Teamwork**: Working within a large team taught me the intricate dance of collaboration. We shared ideas, tackled challenges together, and learned from each other's strengths.
+- **GitHub**: The Master Chef of Project Management: Previously a mystery, GitHub became my culinary companion. I learned to navigate its repositories, contribute code, and collaborate with teammates in real-time.
+- **From Pixels to Plates**: Web Dev Decoded: I honed my web development skills, mastering the art of crafting beautiful and functional websites. I learned to utilize frameworks like Meteor and React, transforming code into user-friendly experiences.
+
+# A Taste of What's Next:
+
+Food-Now is a project in constant evolution, and I'm excited to see it grow. We envision adding features like food reviews, personalized recommendations, and even delivery options.
+
+Ready to explore the culinary landscape of UH Manoa?
+
+Visit our website: [(https://food-now.github.io/)]
+
+Dive into the code and contribute your own culinary flair: [(https://github.com/food-now/MM)]
+
+Food-Now is more than just a web app; it's a community built around the shared love of food. Join us on this delicious journey, one bite at a time!.
