@@ -46,7 +46,7 @@
       
       "company": "Northrop Grumman",
       "position": "Software Engineer",
-      "website": "http://www.hawaii.edu/its/",
+      "website": "https://www.northropgrumman.com/",
       "startDate": "2023-05-23",
       "endDate": "2023-08-30",
       "summary": "An intern who was tasked with testing various systems with each new build released.",
@@ -58,9 +58,9 @@
     {
       "company": "Northrop Grumman",
         "position": "System Test Engineer",
-        "website": "",
+        "website": "https://www.northropgrumman.com/",
         "startDate": "2022-05-22",
-        "endDate": "2022-05-22",
+        "endDate": "2022-08-22",
         "summary": "An intern tasked with created a data visualization application for use with databases.",
         "highlights": [
           "Maintain, update, and oversee official college newspaper website",
@@ -68,45 +68,12 @@
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List",
+      "date": "2020-2023",
+      "awarder": "UHM",
+      "summary": "Main"
     }
   ],
   "references": [
