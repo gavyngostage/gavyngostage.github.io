@@ -55,8 +55,8 @@ Food-Now is a project in constant evolution, and I'm excited to see it grow. We 
 
 Ready to explore the culinary landscape of UH Manoa?
 
-Visit our website: [https://food-now.github.io/]
+Visit our website: [here](https://food-now.github.io/)
 
-Dive into the code and contribute your own culinary flair: [https://github.com/food-now/MM]
+Dive into the code and contribute your own culinary flair: [here](https://github.com/food-now/MM)
 
 Food-Now is more than just a web app; it's a community built around the shared love of food. Join us on this delicious journey, one bite at a time!.
